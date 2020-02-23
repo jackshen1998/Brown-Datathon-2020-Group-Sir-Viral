@@ -1,9 +1,5 @@
 # Brown-Datathon-2020
-This project was done for Brown Datathon 2020.
-
-##  Group SIR VIRAL
-
-##  Project Corona 
+This project was done for Brown Datathon 2020. Group SIR VIRAL
 
 ## [Project Description](doc/)
 
