@@ -1,6 +1,6 @@
 # Brown-Datathon-2020
 This project was done for Brown Datathon 2020. Group SIR VIRAL
-<img src="pic/visa type.png" width="500">
+<img src="/Users/pro/Downloads/Brown-Datathon-2020/pic/visa type.png" width="500">
 
 
 ## [Google Colab Link for Model](https://colab.research.google.com/drive/1phJj-shGxG-LAxmSDZMfY07hkuBoZGc-)
