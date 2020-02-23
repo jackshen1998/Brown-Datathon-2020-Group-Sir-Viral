@@ -1,3 +1,3 @@
-a, a:active {
+.navbar a, .navbar a:active {
     outline: none;
 }
