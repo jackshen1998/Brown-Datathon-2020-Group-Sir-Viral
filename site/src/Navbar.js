@@ -4,11 +4,13 @@ import './Navbar.css';
 class Navbar extends React.Component {
   render() {
     return (
-      <div className="navbar">
+      <div className="navbar is-fixed-top is-spaced has-shadow has-background-white-ter">
         <div className="navbar-brand">
-          <a href="/">
-            <img src={this.props.logo} width="215px" height="40px" />
-          </a>
+          <div className="navbar-item">
+            <a href="/">
+              <img src={this.props.logo} />
+            </a>
+          </div>
         </div>
       </div>
     )

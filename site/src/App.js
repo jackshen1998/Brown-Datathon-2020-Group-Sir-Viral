@@ -5,11 +5,11 @@ import Section from './Section';
 class App extends React.Component {
   render() {
     return (
-      <div>
+      <div className=".app" style={{height: "100%"}}>
         <Navbar
-          logo="https://enactusup.files.wordpress.com/2015/04/facebook-logo.png"
+          logo="https://www.freeiconspng.com/uploads/facebook-outline-transparent--24.png"
         />
-        <div className="container">
+        <div className="container" style={{marginTop: "4rem"}}>
           <Section 
             title="Hello World"
             body="Hello world hello world hello world hello world hello world world hello world hello world hello world hello world"
@@ -27,7 +27,7 @@ class App extends React.Component {
             body="Hello world hello world hello world hello world hello world world hello world hello world hello world hello world"
             image="https://i.ytimg.com/vi/ZuOqCm-KGGY/maxresdefault.jpg"
             />
-        </div>
+          </div>
       </div>
     );
   }
