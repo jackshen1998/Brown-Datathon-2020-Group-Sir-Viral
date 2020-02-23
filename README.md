@@ -1,6 +1,8 @@
 # Brown-Datathon-2020
 This project was done for Brown Datathon 2020. Group SIR VIRAL
 
+## [Google Colab Link for Model](https://colab.research.google.com/drive/1phJj-shGxG-LAxmSDZMfY07hkuBoZGc-)
+
 ## [Project Description](doc/)
 
 ###  This project is conducted by Jiancong Shen, Caleb Sacks , Joon Kwon and Thomas Phillipoff.
